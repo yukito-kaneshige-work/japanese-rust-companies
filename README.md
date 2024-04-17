@@ -117,7 +117,7 @@
 - 3 つのサービスを運営しています。
   - 理系学生と企業を結ぶ採用マッチングプラットフォーム [LabBase](https://compass.labbase.jp/)
   - 理系特化のオンラインイベントプラットフォーム [LabBase Now](https://now.compass.labbase.jp/)
-  - 研究開発者・技術者に特化した転職/採用サービス [LabBase plus](https://plus.labbase.jp/)
+  - 研究開発者・技術者に特化した転職/採用サービス [LabBase転職](https://app.plus.labbase.jp/ja/)
 - 上記三つのサービスとプラットフォーム基盤開発に Rust を採用し、開発を進めています。
 #### 求人情報
 - 開発情報
